@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <h1 className="text-4xl font-bold text-center">
-        Index{' '}
+        Page 2{' '}
         <small>
           Nonce: <code>{nonce}</code>
         </small>
